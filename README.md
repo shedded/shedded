@@ -4,7 +4,7 @@
   <br/>
   <h3>Languages</h3>
   <div>
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-040a16?style=for-the-badge&logo=javascript">
+    <img alt="Skript (even not a real language)" src="https://img.shields.io/badge/-Javascript-040a16?style=for-the-badge&logo=javascript">
     <img alt="Python" src="https://img.shields.io/badge/-python-040a16?style=for-the-badge&logo=python">
   </div>
 
