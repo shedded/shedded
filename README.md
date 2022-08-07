@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="font-weight: bold;">i am blake</h1>
-  <h2>i am pro minehut monkey</h2>
+  <h1 style="font-weight: bold;">i am blake (1dev is a fan!!!)</h1>
+  <h2>i am cool yes/h2>
   <br/>
   <h3>Languages</h3>
   <div>
