@@ -3,7 +3,6 @@
 <<<<<<< patch-1
   <h3>i am cool yes</h3>
 =======
-  <h2>i am cool yes<h2>
 >>>>>>> main
   <br/>
   <h2 style="font-weight: bold;">Languages</h2>
