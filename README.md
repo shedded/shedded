@@ -1,7 +1,6 @@
 <div align="center">
   <h1 style="font-weight: bold;">i am blake (1dev is a fan!!!)</h1>
   <h3>i am cool yes</h3>
-  <br/>
   <h2 style="font-weight: bold;">Languages</h2>
   <div>
     <img alt="Nothing" src="https://img.shields.io/badge/-nothing-040a16?style=for-the-badge&logo=nothing">
