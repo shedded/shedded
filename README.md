@@ -6,7 +6,6 @@
   <div>
     <img alt="Nothing" src="https://img.shields.io/badge/-nothing-040a16?style=for-the-badge&logo=nothing">
   </div>
-
   <h2 style="font-weight: bold;">Learning</h2>
   <div>
     <img alt="Skript" src="https://img.shields.io/badge/-skript-040a16?style=for-the-badge&logo=skript">
