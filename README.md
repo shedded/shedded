@@ -10,6 +10,6 @@
   </div>
   <h2 style="font-weight: bold;">Learning</h2>
   <div>
-    <img alt="Skript" src="https://img.shields.io/badge/-skript-040a16?style=for-the-badge&logo=skript">
+    <img alt="C+" src="https://img.shields.io/badge/-C+-040a16?style=for-the-badge&logo=C+">
   </div>
   
